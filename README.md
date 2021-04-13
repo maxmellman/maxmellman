@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- 👀 I’m interested in learning, making friends, cooking/eating, and hiking!
+- 👀 I’m interested in learning, making friends, cooking, and hiking!
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on future projects 
 - 📫 Send me a message on Github
