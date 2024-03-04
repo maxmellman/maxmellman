@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on future projects 
 - 📫 Send me a message on Github
 
